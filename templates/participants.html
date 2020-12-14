@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html lang="en"
+    <head>
+        <title>Participants</title>
+    <body>
+        <h1>Comments</h1>
+         <ul>
+             {% for row in rows %}
+                 <li>{{ row["participants"] }}</li>
+             {% endfor %}
+         </ul>
+         
+         <a href="/participants">Comments</a>
+    </body>
+</head>
