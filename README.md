@@ -11,3 +11,4 @@ IMPORTANT
 \/
 
 The video segment of the final project that is currently embedded in the about-me section can be found here with this link https://www.youtube.com/embed/izRzKyiAeZ8
+The link to my website can be found here http://box5887.temp.domains/~mrzeppel/portfolio2/
