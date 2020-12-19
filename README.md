@@ -10,5 +10,4 @@ IMPORTANT
 |
 \/
 
-The video segment of the final project that is currently embedded in the about-me section is a placeholder until I can interview my grandmother.
-]==
+The video segment of the final project that is currently embedded in the about-me section can be found here with this link https://www.youtube.com/embed/izRzKyiAeZ8
