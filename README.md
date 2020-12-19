@@ -1,14 +1,7 @@
-#Portfolio
+#Rogers-Portfolio
 
-This repository contains the source code for my portfolio
+Hello, for my final project with CS50x, I wanted to create a portfolio showcasing my most recent school work. 
 
-My portfolio will be uploaded to the world wide web after it us finished.
+I created a video segment of the final project; You can find the video in the about-me section of my website, which can be found here with this link https://www.youtube.com/embed/izRzKyiAeZ8. The link to my website is here http://box5887.temp.domains/~mrzeppel/portfolio2/.
 
-CSS, HTML, Javascript, and Python are embedded in the files that will make up the website. For details, email: JoshuaRogers15@hotmail.com
-IMPORTANT
-|
-|
-\/
-
-The video segment of the final project that is currently embedded in the about-me section can be found here with this link https://www.youtube.com/embed/izRzKyiAeZ8
-The link to my website can be found here http://box5887.temp.domains/~mrzeppel/portfolio2/
+Thank you for your consideration. 
