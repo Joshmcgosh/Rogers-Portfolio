@@ -7,3 +7,5 @@ I created a video segment of the final project; You can find the video in the ab
 I decided to redirect users who click on the submit button on the contact portion because I want to direct visitors' attention to my official website.
 
 Thank you for your consideration. 
+
+P.S. Resize the browser less than or equal to 700px to see an effect.
